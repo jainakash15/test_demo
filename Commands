@@ -1,0 +1,18 @@
+    1  git --version 
+    2  git help config
+    3  git config --help
+    4  mkdir test
+    5  cd test
+    6  git init
+    7  git status
+    8  git add demo.txt
+    9  git commit -m "committing a text file"
+   10  git config --global user.email "deep@devops.com"
+   11  git config --global user.name "john deep"
+   12  git commit -m "committing a text file"
+   13  git config --global user.username jjaaa
+   14  git remote add origin https://github.com/xxxxxxuyysyshhshshshsh
+   15  git push origin master
+   16  clear
+   17  history
+ 
